@@ -1,0 +1,11 @@
+{
+  "name": "newsapp",
+  "version": "1.0.0",
+  "description": "it is a newApp that fetches news headlines from an api",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node server.js"
+  },
+  "author": "Devendar",
+  "license": "ISC"
+}
